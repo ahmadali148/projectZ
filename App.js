@@ -1,9 +1,8 @@
 import React from 'react';
-import Profile from '../projectZ/src/screen/Profile'
-
+import MyStack from './src/navigation/MyStack';
 const App = () => {
   return (
-    <Profile />
+    <MyStack />
   );
 };
 

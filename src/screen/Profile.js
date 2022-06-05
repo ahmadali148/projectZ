@@ -10,8 +10,7 @@ import {
 } from 'react-native';
 import Styles from './Styles';
 import Icon from 'react-native-vector-icons/Ionicons';
-import Icons from 'react-native-vector-icons/MaterialIcons';
-import Iconz from 'react-native-vector-icons/FontAwesome';
+``
 
 const Profile = () => {
   return (
